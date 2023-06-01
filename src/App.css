@@ -1,0 +1,75 @@
+.nav{
+  background-color: rgb(122, 22, 22);
+}
+
+.btnAdd {
+  background-color: white !important;
+  color: brown !important;
+  border: 1px solid brown !important;
+  margin-left:70px !important;
+}
+
+.btnAdd:hover{
+  background-color: rgb(122, 22, 22) !important;
+  color: rgb(251, 251, 252) !important;
+}
+
+.containerProducts{
+  display: flex !important;
+  justify-content: space-around !important;
+  margin-top: 20px !important;
+}
+
+.price{
+  text-align: center !important;
+}
+
+.containerBtn{
+  display: flex !important;
+  justify-content: space-between !important;
+}
+
+.btnAdd1{
+  background-color: white !important;
+  color: brown !important;
+  border: 1px solid brown !important;
+}
+
+.btnAdd1:hover{
+  background-color: rgb(122, 22, 22) !important;
+  color: rgb(251, 251, 252) !important;
+}
+
+.btnDetail{
+  background-color: white !important;
+  color: brown !important;
+  border: 1px solid brown !important;
+}
+
+.btnDetail:hover{
+  background-color: rgb(122, 22, 22) !important;
+  color: rgb(251, 251, 252) !important;
+}
+
+#container {
+  padding-top: 10px;
+  text-align: center;
+
+}
+
+.inputProfile .input{
+  width: 50% !important;
+  margin: 0 auto;
+}
+
+.textarea{
+  margin-top: 20px;
+}
+
+.cartImg{
+  margin-top: 10px;
+}
+
+h5{
+  text-align: center;
+}
